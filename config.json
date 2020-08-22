@@ -1,0 +1,18 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Chippenham_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3138621",
+    "start": "2010",
+    "end": "9999"
+  }, {
+    "id": "Q42296856",
+    "start": "1868",
+    "end": "1983"
+  }, {
+    "id": "Q56185634",
+    "start": "1801",
+    "end": "1868"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
